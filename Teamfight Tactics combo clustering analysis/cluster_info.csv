@@ -1,0 +1,8 @@
+cluster,avg_placement,top4_rate,win_rate,game_counts,cluster_play_rate,Name ,Playstyle ,Difficulty ,Description ,Difficulty description 
+1,4.227454421370771,0.5513307984790875,0.14575411913814956,10257,0.256425,Innovator Flex, Flex,Hard,"A highly flexible Innovator core that adapts between Socialite utility and Striker carries, centered on Jayce and Irelia.","Requires strong ""flex"" play and item management."
+2,4.307121096725057,0.5378903274942879,0.16488956587966488,5252,0.1313,Chemtech Bruisers,"Frontline 
+ Sustain",Easy-Meidum ,"A durable Bruiser frontline amplified by Chemtech and Enforcer control, enabling late-game scaling from Silco, Renata, or Viktor.",Straightforward frontline stacking and sustain.
+3,4.626620473848905,0.48044255699597677,0.11175681716584712,8948,0.2237,Hextech Sivir, Vertical,Easy,"A front-to-back AD composition centered on Sivir, using Bruiser durability and Hextech shields to enable sustained Striker damage.",Built entirely around Sivir
+0,4.6617812852311165,0.46967305524239006,0.10913190529875987,8870,0.22175,Syndicate Clockwork,"Backline 
+  Carry",Medium,"A defensive frontline with Clockwork scaling, enabling high-value Syndicate and AD/AP backline carries like Jhin, Draven, and Zeri.",Requires balancing frontline positioning and backline itemization.
+4,4.685898396523303,0.4578150756781058,0.10055447325041211,6673,0.166825,Arcanist Yordles,AP Reroll,Medium,"An AP-focused reroll composition built around Yordle economy and Arcanist spell damage, with flexible Twinshot backline options.","Economy management via Yordles is forgiving, but correct reroll thresholds and AP itemization still require planning."

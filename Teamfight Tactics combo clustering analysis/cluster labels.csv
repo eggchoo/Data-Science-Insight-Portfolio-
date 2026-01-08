@@ -1,0 +1,6 @@
+﻿Cluster ,Name ,Playstyle ,Difficulty ,Description ,Difficulty description 
+0,Syndicate Clockwork,Backline Carry,Medium,"A defensive frontline with Clockwork scaling, enabling high-value Syndicate and AD/AP backline carries like Jhin, Draven, and Zeri.",Requires balancing frontline positioning and backline itemization.
+1,Innovator Flex, Flex,Hard,"A highly flexible Innovator core that adapts between Socialite utility and Striker carries, centered on Jayce and Irelia.","Requires strong ""flex"" play and item management."
+2,Chemtech Bruisers,Frontline Sustain,Easy-Meidum ,"A durable Bruiser frontline amplified by Chemtech and Enforcer control, enabling late-game scaling from Silco, Renata, or Viktor.",Straightforward frontline stacking and sustain.
+3,Hextech Sivir, Vertical,Easy,"A front-to-back AD composition centered on Sivir, using Bruiser durability and Hextech shields to enable sustained Striker damage.",built entirely around Sivir
+4,Arcanist Yordles,AP Reroll/ Economy Scaling,Medium,"An AP-focused reroll composition built around Yordle economy and Arcanist spell damage, with flexible Twinshot backline options.","Economy management via Yordles is forgiving, but correct reroll thresholds and AP itemization still require planning."
