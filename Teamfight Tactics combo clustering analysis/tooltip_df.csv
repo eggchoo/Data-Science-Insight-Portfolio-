@@ -1,0 +1,853 @@
+champ_name,section_order,row_order,section,text
+Aatrox,1,1,header,Aatrox
+Aatrox,2,1,traits_header,Traits
+Aatrox,2,2,trait,Ghostly
+Aatrox,2,3,trait,Inkshadow
+Aatrox,2,4,trait,Bruiser
+Aatrox,3,1,Ability,Phantom Blade
+Aatrox,3,3,Ability Description,20% Shred the current target for 4 seconds and deal magic damage to them. Heal yourself.
+Aatrox,4,2,Stats,HP: 700 / 1260 / 2268
+Aatrox,4,3,Stats,Armor: 45
+Aatrox,4,4,Stats,MR: 45
+Aatrox,4,5,Stats,AS: 0.65
+Aatrox,4,6,Stats,DPS: 36 / 64 / 116
+Aatrox,4,7,Stats,Range: 1
+Aatrox,4,8,Stats,Crit Rate: 25%
+Aatrox,4,9,Stats,Ability Power: 100
+Ahri,1,1,header,Ahri
+Ahri,2,1,traits_header,Traits
+Ahri,2,2,trait,Fated
+Ahri,2,3,trait,Arcanist
+Ahri,3,1,Ability,Love Bomb
+Ahri,3,3,Ability Description,Deal magic damage to the current target and magic damage to adjacent enemies.
+Ahri,4,2,Stats,HP: 500 / 900 / 1620
+Ahri,4,3,Stats,Armor: 15
+Ahri,4,4,Stats,MR: 15
+Ahri,4,5,Stats,AS: 0.7
+Ahri,4,6,Stats,DPS: 21 / 38 / 68
+Ahri,4,7,Stats,Range: 4
+Ahri,4,8,Stats,Crit Rate: 25%
+Ahri,4,9,Stats,Ability Power: 100
+Alune,1,1,header,Alune
+Alune,2,1,traits_header,Traits
+Alune,2,2,trait,Umbral
+Alune,2,3,trait,Invoker
+Alune,3,1,Ability,Lunar Barrage
+Alune,3,3,Ability Description,Rain meteors through the row with the most total enemy Health. Meteors deal magic damage split between all enemies hit. Deal magic damage to the current target. All enemies hit are 20% Shredded for 6 seconds. 
+Alune,4,2,Stats,HP: 650 / 1170 / 2106
+Alune,4,3,Stats,Armor: 25
+Alune,4,4,Stats,MR: 25
+Alune,4,5,Stats,AS: 0.7
+Alune,4,6,Stats,DPS: 28 / 50 / 91
+Alune,4,7,Stats,Range: 4
+Alune,4,8,Stats,Crit Rate: 25%
+Alune,4,9,Stats,Ability Power: 100
+Amumu,1,1,header,Amumu
+Amumu,2,1,traits_header,Traits
+Amumu,2,2,trait,Porcelain
+Amumu,2,3,trait,Warden
+Amumu,3,1,Ability,Herbal Tea-rs
+Amumu,3,3,Ability Description,"Over the next 3 seconds, heal Health and cry on adjacent units. Tears heal allies for Health and deal magic damage to enemies."
+Amumu,4,2,Stats,HP: 900 / 1620 / 2916
+Amumu,4,3,Stats,Armor: 50
+Amumu,4,4,Stats,MR: 50
+Amumu,4,5,Stats,AS: 0.6
+Amumu,4,6,Stats,DPS: 36 / 65 / 117
+Amumu,4,7,Stats,Range: 1
+Amumu,4,8,Stats,Crit Rate: 25%
+Amumu,4,9,Stats,Ability Power: 100
+Annie,1,1,header,Annie
+Annie,2,1,traits_header,Traits
+Annie,2,2,trait,Fortune
+Annie,2,3,trait,Invoker
+Annie,3,1,Ability,"Get 'em, Tibbers!"
+Annie,3,3,Ability Description,"Passive: Heal 5% HP when damaging a Burning enemy. Active: On first cast, hop on Tibbers, gaining 15% HP + % AP max Health and Stunning enemies within 2 hexes for 1.5 seconds. "
+Annie,4,2,Stats,HP: 850 / 1530 / 2754
+Annie,4,3,Stats,Armor: 60
+Annie,4,4,Stats,MR: 60
+Annie,4,5,Stats,AS: 0.65
+Annie,4,6,Stats,DPS: 42 / 76 / 137
+Annie,4,7,Stats,Range: 1
+Annie,4,8,Stats,Crit Rate: 25%
+Annie,4,9,Stats,Ability Power: 100
+Aphelios,1,1,header,Aphelios
+Aphelios,2,1,traits_header,Traits
+Aphelios,2,2,trait,Fated
+Aphelios,2,3,trait,Sniper
+Aphelios,3,1,Ability,Duskwave
+Aphelios,3,3,Ability Description,"20% Sunder the nearest 3 enemies for 7 seconds. Then fire 3 shots at them, dealing % AD + % AP physical damage each."
+Aphelios,4,2,Stats,HP: 650 / 1170 / 2106
+Aphelios,4,3,Stats,Armor: 25
+Aphelios,4,4,Stats,MR: 25
+Aphelios,4,5,Stats,AS: 0.75
+Aphelios,4,6,Stats,DPS: 45 / 81 / 146
+Aphelios,4,7,Stats,Range: 4
+Aphelios,4,8,Stats,Crit Rate: 25%
+Aphelios,4,9,Stats,Ability Power: 100
+Ashe,1,1,header,Ashe
+Ashe,2,1,traits_header,Traits
+Ashe,2,2,trait,Porcelain
+Ashe,2,3,trait,Sniper
+Ashe,3,1,Ability,Rain of Shards
+Ashe,3,3,Ability Description,"Passive: Start with 15 arrows. Gain arrows every 3 attacks. Active: Fire a volley split between the current target and the 3 closest enemies within range, dealing physical damage per arrow."
+Ashe,4,2,Stats,HP: 700 / 1260 / 2268
+Ashe,4,3,Stats,Armor: 30
+Ashe,4,4,Stats,MR: 30
+Ashe,4,5,Stats,AS: 0.8
+Ashe,4,6,Stats,DPS: 52 / 94 / 168
+Ashe,4,7,Stats,Range: 4
+Ashe,4,8,Stats,Crit Rate: 25%
+Ashe,4,9,Stats,Ability Power: 100
+Azir,1,1,header,Azir
+Azir,2,1,traits_header,Traits
+Azir,2,2,trait,Dryad
+Azir,2,3,trait,Invoker
+Azir,3,1,Ability,Blight
+Azir,3,3,Ability Description,"Fire a beam through the current target, dealing magic damage to enemies hit. Spawn a Guardian adjacent to the first enemy hit. The Guardian does not move or attack."
+Azir,4,2,Stats,HP: 800 / 1440 / 2592
+Azir,4,3,Stats,Armor: 35
+Azir,4,4,Stats,MR: 35
+Azir,4,5,Stats,AS: 0.85
+Azir,4,6,Stats,DPS: 38 / 69 / 124
+Azir,4,7,Stats,Range: 4
+Azir,4,8,Stats,Crit Rate: 25%
+Azir,4,9,Stats,Ability Power: 100
+Bard,1,1,header,Bard
+Bard,2,1,traits_header,Traits
+Bard,2,2,trait,Mythic
+Bard,2,3,trait,Trickshot
+Bard,3,1,Ability,Meep Meep!
+Bard,3,3,Ability Description,"For the next seconds, attacks instead throw 2 Meeps, each dealing physical damage and magic damage."
+Bard,4,2,Stats,HP: 650 / 1170 / 2106
+Bard,4,3,Stats,Armor: 25
+Bard,4,4,Stats,MR: 25
+Bard,4,5,Stats,AS: 0.8
+Bard,4,6,Stats,DPS: 40 / 72 / 130
+Bard,4,7,Stats,Range: 4
+Bard,4,8,Stats,Crit Rate: 25%
+Bard,4,9,Stats,Ability Power: 100
+Caitlyn,1,1,header,Caitlyn
+Caitlyn,2,1,traits_header,Traits
+Caitlyn,2,2,trait,Ghostly
+Caitlyn,2,3,trait,Sniper
+Caitlyn,3,1,Ability,Ace in the Hole
+Caitlyn,3,3,Ability Description,"Fire a bullet towards the farthest enemy, dealing 800% AD + % AP physical damage to the first enemy hit."
+Caitlyn,4,2,Stats,HP: 500 / 900 / 1620
+Caitlyn,4,3,Stats,Armor: 15
+Caitlyn,4,4,Stats,MR: 15
+Caitlyn,4,5,Stats,AS: 0.7
+Caitlyn,4,6,Stats,DPS: 35 / 63 / 113
+Caitlyn,4,7,Stats,Range: 4
+Caitlyn,4,8,Stats,Crit Rate: 25%
+Caitlyn,4,9,Stats,Ability Power: 100
+Chogath,1,1,header,Chogath
+Chogath,2,1,traits_header,Traits
+Chogath,2,2,trait,Mythic
+Chogath,2,3,trait,Behemoth
+Chogath,3,1,Ability,Eruption
+Chogath,3,3,Ability Description,"Gain Shield for 4 seconds and breathe a cone of fire, dealing magic damage, Burning, and Wounding enemies hit for 9 seconds. "
+Chogath,4,2,Stats,HP: 650 / 1170 / 2106
+Chogath,4,3,Stats,Armor: 40
+Chogath,4,4,Stats,MR: 40
+Chogath,4,5,Stats,AS: 0.55
+Chogath,4,6,Stats,DPS: 28 / 50 / 89
+Chogath,4,7,Stats,Range: 1
+Chogath,4,8,Stats,Crit Rate: 25%
+Chogath,4,9,Stats,Ability Power: 100
+Darius,1,1,header,Darius
+Darius,2,1,traits_header,Traits
+Darius,2,2,trait,Umbral
+Darius,2,3,trait,Duelist
+Darius,3,1,Ability,Decimate
+Darius,3,3,Ability Description,"Deal magic damage to adjacent enemies. For the next 4 seconds, attacks deal bonus magic damage."
+Darius,4,2,Stats,HP: 650 / 1170 / 2106
+Darius,4,3,Stats,Armor: 40
+Darius,4,4,Stats,MR: 40
+Darius,4,5,Stats,AS: 0.7
+Darius,4,6,Stats,DPS: 28 / 50 / 91
+Darius,4,7,Stats,Range: 1
+Darius,4,8,Stats,Crit Rate: 25%
+Darius,4,9,Stats,Ability Power: 100
+Diana,1,1,header,Diana
+Diana,2,1,traits_header,Traits
+Diana,2,2,trait,Dragonlord
+Diana,2,3,trait,Sage
+Diana,3,1,Ability,Purification Rites
+Diana,3,3,Ability Description,"Heal and create a 1-hex sacred zone around Diana for 4 seconds, taking 20% reduced damage from enemies outside the zone. While the zone is up, Diana's attacks deal bonus magic damage."
+Diana,4,2,Stats,HP: 900 / 1620 / 2916
+Diana,4,3,Stats,Armor: 45
+Diana,4,4,Stats,MR: 45
+Diana,4,5,Stats,AS: 0.8
+Diana,4,6,Stats,DPS: 40 / 72 / 130
+Diana,4,7,Stats,Range: 1
+Diana,4,8,Stats,Crit Rate: 25%
+Diana,4,9,Stats,Ability Power: 100
+Galio,1,1,header,Galio
+Galio,2,1,traits_header,Traits
+Galio,2,2,trait,Storyweaver
+Galio,2,3,trait,Bruiser
+Galio,3,1,Ability,Savior's Protection
+Galio,3,3,Ability Description,Taunt enemies within 3 hexes and gain 50% AR + Armor and 50% MR + Magic Resist for 4 seconds. Galio is immobile and unstoppable during this time.
+Galio,4,2,Stats,HP: 1100 / 1980 / 3564
+Galio,4,3,Stats,Armor: 60
+Galio,4,4,Stats,MR: 60
+Galio,4,5,Stats,AS: 0.6
+Galio,4,6,Stats,DPS: 36 / 65 / 117
+Galio,4,7,Stats,Range: 1
+Galio,4,8,Stats,Crit Rate: 25%
+Galio,4,9,Stats,Ability Power: 100
+Garen,1,1,header,Garen
+Garen,2,1,traits_header,Traits
+Garen,2,2,trait,Storyweaver
+Garen,2,3,trait,Warden
+Garen,3,1,Ability,Courage
+Garen,3,3,Ability Description,Gain Shield for 5 seconds. Garen's next attack deals additional damage.
+Garen,4,2,Stats,HP: 600 / 1080 / 1944
+Garen,4,3,Stats,Armor: 40
+Garen,4,4,Stats,MR: 40
+Garen,4,5,Stats,AS: 0.6
+Garen,4,6,Stats,DPS: 33 / 59 / 107
+Garen,4,7,Stats,Range: 1
+Garen,4,8,Stats,Crit Rate: 25%
+Garen,4,9,Stats,Ability Power: 100
+Gnar,1,1,header,Gnar
+Gnar,2,1,traits_header,Traits
+Gnar,2,2,trait,Dryad
+Gnar,2,3,trait,Warden
+Gnar,3,1,Ability,Boulder Toss
+Gnar,3,3,Ability Description,"Passive: Gain 2% AP Attack Damage upon attacking or getting hit, up to 50 times. Active: Fling a boulder at the current target, dealing physical damage to targets in a line."
+Gnar,4,2,Stats,HP: 700 / 1260 / 2268
+Gnar,4,3,Stats,Armor: 45
+Gnar,4,4,Stats,MR: 45
+Gnar,4,5,Stats,AS: 0.7
+Gnar,4,6,Stats,DPS: 42 / 76 / 136
+Gnar,4,7,Stats,Range: 1
+Gnar,4,8,Stats,Crit Rate: 25%
+Gnar,4,9,Stats,Ability Power: 100
+Hwei,1,1,header,Hwei
+Hwei,2,1,traits_header,Traits
+Hwei,2,2,trait,Mythic
+Hwei,2,3,trait,Artist
+Hwei,3,1,Ability,A Brush with Fate
+Hwei,3,3,Ability Description,"Create an expanding paint pool around the most units that heals allies within for Health every second for 3 seconds. After 3 seconds, it explodes, healing allies within for Health and dealing magic damage to enemies."
+Hwei,4,2,Stats,HP: 800 / 1440 / 2592
+Hwei,4,3,Stats,Armor: 40
+Hwei,4,4,Stats,MR: 40
+Hwei,4,5,Stats,AS: 0.8
+Hwei,4,6,Stats,DPS: 40 / 72 / 130
+Hwei,4,7,Stats,Range: 4
+Hwei,4,8,Stats,Crit Rate: 25%
+Hwei,4,9,Stats,Ability Power: 100
+Illaoi,1,1,header,Illaoi
+Illaoi,2,1,traits_header,Traits
+Illaoi,2,2,trait,Ghostly
+Illaoi,2,3,trait,Arcanist
+Illaoi,2,4,trait,Warden
+Illaoi,3,1,Ability,Prophet of Spirits
+Illaoi,3,3,Ability Description,"Gain Shield and summon a tentacle near the current target for 4 seconds. The tentacle slams every second, dealing magic damage in a line and healing Illaoi."
+Illaoi,4,2,Stats,HP: 850 / 1530 / 2754
+Illaoi,4,3,Stats,Armor: 40
+Illaoi,4,4,Stats,MR: 40
+Illaoi,4,5,Stats,AS: 0.6
+Illaoi,4,6,Stats,DPS: 30 / 54 / 97
+Illaoi,4,7,Stats,Range: 1
+Illaoi,4,8,Stats,Crit Rate: 25%
+Illaoi,4,9,Stats,Ability Power: 100
+Irelia,1,1,header,Irelia
+Irelia,2,1,traits_header,Traits
+Irelia,2,2,trait,Storyweaver
+Irelia,2,3,trait,Duelist
+Irelia,3,1,Ability,Blade Dance
+Irelia,3,3,Ability Description,"Passive: Attacks send blades that dart between enemies, dealing physical damage and 30% Sunder for 5 seconds. Cast every 8 attacks. Active: Command the blades to swiftly strike the three lowest Health enemies, dealing 100% AP + % AD and applying on-hit effects physical damage."
+Irelia,4,2,Stats,HP: 900 / 1620 / 2916
+Irelia,4,3,Stats,Armor: 40
+Irelia,4,4,Stats,MR: 40
+Irelia,4,5,Stats,AS: 0.9
+Irelia,4,6,Stats,DPS: 68 / 122 / 219
+Irelia,4,7,Stats,Range: 7
+Irelia,4,8,Stats,Crit Rate: 25%
+Irelia,4,9,Stats,Ability Power: 100
+Janna,1,1,header,Janna
+Janna,2,1,traits_header,Traits
+Janna,2,2,trait,Dragonlord
+Janna,2,3,trait,Invoker
+Janna,3,1,Ability,Heavenly Winds
+Janna,3,3,Ability Description,"Grant Shield to Janna and the lowest Health ally for 4 seconds. Then, deal magic damage to the 2 nearest enemies."
+Janna,4,2,Stats,HP: 600 / 1080 / 1944
+Janna,4,3,Stats,Armor: 20
+Janna,4,4,Stats,MR: 20
+Janna,4,5,Stats,AS: 0.7
+Janna,4,6,Stats,DPS: 28 / 50 / 91
+Janna,4,7,Stats,Range: 4
+Janna,4,8,Stats,Crit Rate: 25%
+Janna,4,9,Stats,Ability Power: 100
+Jax,1,1,header,Jax
+Jax,2,1,traits_header,Traits
+Jax,2,2,trait,Inkshadow
+Jax,2,3,trait,Warden
+Jax,3,1,Ability,Counter Strike
+Jax,3,3,Ability Description,"Gain 60 Armor and Magic Resist for the next 2 seconds. Afterwards, deal magic damage to adjacent enemies. The current target takes magic damage and is Stunned for 1.5 seconds."
+Jax,4,2,Stats,HP: 650 / 1170 / 2106
+Jax,4,3,Stats,Armor: 40
+Jax,4,4,Stats,MR: 40
+Jax,4,5,Stats,AS: 0.65
+Jax,4,6,Stats,DPS: 29 / 53 / 95
+Jax,4,7,Stats,Range: 1
+Jax,4,8,Stats,Crit Rate: 25%
+Jax,4,9,Stats,Ability Power: 100
+Kaisa,1,1,header,Kaisa
+Kaisa,2,1,traits_header,Traits
+Kaisa,2,2,trait,Inkshadow
+Kaisa,2,3,trait,Trickshot
+Kaisa,3,1,Ability,Inkstorm
+Kaisa,3,3,Ability Description,"Fire 20 waves at the current target over 2 seconds, each dealing % AD + % AP physical damage to the first enemy hit. If an enemy is hit by 10 waves, they take % AD + % AP physical damage per wave instead."
+Kaisa,4,2,Stats,HP: 700 / 1260 / 2268
+Kaisa,4,3,Stats,Armor: 30
+Kaisa,4,4,Stats,MR: 30
+Kaisa,4,5,Stats,AS: 0.8
+Kaisa,4,6,Stats,DPS: 56 / 101 / 181
+Kaisa,4,7,Stats,Range: 4
+Kaisa,4,8,Stats,Crit Rate: 25%
+Kaisa,4,9,Stats,Ability Power: 100
+Kayn,1,1,header,Kayn
+Kayn,2,1,traits_header,Traits
+Kayn,2,2,trait,Ghostly
+Kayn,2,3,trait,Reaper
+Kayn,3,1,Ability,Shadow Assassin
+Kayn,3,3,Ability Description,"On first cast, transform, dealing physical damage to nearby enemies. While transformed, gain 30% Critical Strike Chance and critical attacks damage adjacent enemies. If the spin only hits one enemy, the damage is increased by 50%."
+Kayn,4,2,Stats,HP: 1000 / 1800 / 3240
+Kayn,4,3,Stats,Armor: 60
+Kayn,4,4,Stats,MR: 60
+Kayn,4,5,Stats,AS: 0.9
+Kayn,4,6,Stats,DPS: 68 / 122 / 219
+Kayn,4,7,Stats,Range: 1
+Kayn,4,8,Stats,Crit Rate: 25%
+Kayn,4,9,Stats,Ability Power: 100
+Khazix,1,1,header,Khazix
+Khazix,2,1,traits_header,Traits
+Khazix,2,2,trait,Heavenly
+Khazix,2,3,trait,Reaper
+Khazix,3,1,Ability,Leap!
+Khazix,3,3,Ability Description,Leap towards the lowest Health enemy within 3 hexes and deal % AD + % AP physical damage.
+Khazix,4,2,Stats,HP: 600 / 1080 / 1944
+Khazix,4,3,Stats,Armor: 35
+Khazix,4,4,Stats,MR: 35
+Khazix,4,5,Stats,AS: 0.75
+Khazix,4,6,Stats,DPS: 38 / 68 / 122
+Khazix,4,7,Stats,Range: 1
+Khazix,4,8,Stats,Crit Rate: 25%
+Khazix,4,9,Stats,Ability Power: 100
+Kindred,1,1,header,Kindred
+Kindred,2,1,traits_header,Traits
+Kindred,2,2,trait,Dryad
+Kindred,2,3,trait,Fated
+Kindred,2,4,trait,Reaper
+Kindred,3,1,Ability,Flourish of Arrows
+Kindred,3,3,Ability Description,Dash away from the current target and deal magic damage to them and magic damage to the nearest enemy.
+Kindred,4,2,Stats,HP: 550 / 990 / 1782
+Kindred,4,3,Stats,Armor: 20
+Kindred,4,4,Stats,MR: 20
+Kindred,4,5,Stats,AS: 0.7
+Kindred,4,6,Stats,DPS: 28 / 50 / 91
+Kindred,4,7,Stats,Range: 4
+Kindred,4,8,Stats,Crit Rate: 25%
+Kindred,4,9,Stats,Ability Power: 100
+Kobuko,1,1,header,Kobuko
+Kobuko,2,1,traits_header,Traits
+Kobuko,2,2,trait,Fortune
+Kobuko,2,3,trait,Bruiser
+Kobuko,3,1,Ability,Money Dance
+Kobuko,3,3,Ability Description,"Passive: When you gain interest, gain permanent Health per gold collected. Gain Health per Round in Hyper Roll. Active: Heal Health over 2 seconds. Kobuko's next attack deals bonus magic damage."
+Kobuko,4,2,Stats,HP: 600 / 1080 / 1944
+Kobuko,4,3,Stats,Armor: 30
+Kobuko,4,4,Stats,MR: 30
+Kobuko,4,5,Stats,AS: 0.5
+Kobuko,4,6,Stats,DPS: 20 / 36 / 65
+Kobuko,4,7,Stats,Range: 1
+Kobuko,4,8,Stats,Crit Rate: 25%
+Kobuko,4,9,Stats,Ability Power: 100
+KogMaw,1,1,header,KogMaw
+KogMaw,2,1,traits_header,Traits
+KogMaw,2,2,trait,Mythic
+KogMaw,2,3,trait,Invoker
+KogMaw,2,4,trait,Sniper
+KogMaw,3,1,Ability,Raining Artillery
+KogMaw,3,3,Ability Description,"Deal magic damage to the lowest Health enemy within range. Every 2 casts, gain +1 Attack Range."
+KogMaw,4,2,Stats,HP: 500 / 900 / 1620
+KogMaw,4,3,Stats,Armor: 15
+KogMaw,4,4,Stats,MR: 15
+KogMaw,4,5,Stats,AS: 0.7
+KogMaw,4,6,Stats,DPS: 21 / 38 / 68
+KogMaw,4,7,Stats,Range: 3
+KogMaw,4,8,Stats,Crit Rate: 25%
+KogMaw,4,9,Stats,Ability Power: 100
+Lee Sin,1,1,header,Lee Sin
+Lee Sin,2,1,traits_header,Traits
+Lee Sin,2,2,trait,Dragonlord
+Lee Sin,2,3,trait,Duelist
+Lee Sin,3,1,Ability,Dragon's Dance
+Lee Sin,3,3,Ability Description,"Kick the target's spirit out of their body, dealing physical damage increased by 50% of bonus Attack Speed, 30% Mana Reaving them, and Stunning them. Enemies hit by the spirit take physical damage. Gain Shield for 3 seconds."
+Lee Sin,4,2,Stats,HP: 950 / 1710 / 3078
+Lee Sin,4,3,Stats,Armor: 55
+Lee Sin,4,4,Stats,MR: 55
+Lee Sin,4,5,Stats,AS: 0.85
+Lee Sin,4,6,Stats,DPS: 55 / 99 / 179
+Lee Sin,4,7,Stats,Range: 1
+Lee Sin,4,8,Stats,Crit Rate: 25%
+Lee Sin,4,9,Stats,Ability Power: 100
+Lillia,1,1,header,Lillia
+Lillia,2,1,traits_header,Traits
+Lillia,2,2,trait,Mythic
+Lillia,2,3,trait,Invoker
+Lillia,3,1,Ability,Eep!
+Lillia,3,3,Ability Description,"Hurl an orb towards the current target, dealing magic damage to the first enemy hit and adjacent enemies. It continues rolling as a smaller orb, dealing magic damage to enemies it hits. "
+Lillia,4,2,Stats,HP: 700 / 1260 / 2268
+Lillia,4,3,Stats,Armor: 30
+Lillia,4,4,Stats,MR: 30
+Lillia,4,5,Stats,AS: 0.75
+Lillia,4,6,Stats,DPS: 34 / 61 / 109
+Lillia,4,7,Stats,Range: 4
+Lillia,4,8,Stats,Crit Rate: 25%
+Lillia,4,9,Stats,Ability Power: 100
+Lissandra,1,1,header,Lissandra
+Lissandra,2,1,traits_header,Traits
+Lissandra,2,2,trait,Porcelain
+Lissandra,2,3,trait,Arcanist
+Lissandra,3,1,Ability,Let 'em Brew
+Lissandra,3,3,Ability Description,"Steep the current target in a teapot, Stunning and dealing magic damage over time. If they die, Lissandra turns them into a loot orb. Otherwise, Lissandra throws the teapot at the largest group of enemies, dealing magic damage to all enemies hit. (Rewards are doubled in Hyper Roll)"
+Lissandra,4,2,Stats,HP: 1000 / 1800 / 3240
+Lissandra,4,3,Stats,Armor: 55
+Lissandra,4,4,Stats,MR: 55
+Lissandra,4,5,Stats,AS: 0.8
+Lissandra,4,6,Stats,DPS: 40 / 72 / 130
+Lissandra,4,7,Stats,Range: 3
+Lissandra,4,8,Stats,Crit Rate: 25%
+Lissandra,4,9,Stats,Ability Power: 100
+Lux,1,1,header,Lux
+Lux,2,1,traits_header,Traits
+Lux,2,2,trait,Porcelain
+Lux,2,3,trait,Arcanist
+Lux,3,1,Ability,Bunny Binding
+Lux,3,3,Ability Description,"Throw a spirit bunny towards the farthest enemy, dealing magic damage to enemies along the way, reduced by 30% each time it hits an enemy. The first 2 enemies hit are Stunned for 1.5 seconds."
+Lux,4,2,Stats,HP: 550 / 990 / 1782
+Lux,4,3,Stats,Armor: 20
+Lux,4,4,Stats,MR: 20
+Lux,4,5,Stats,AS: 0.7
+Lux,4,6,Stats,DPS: 28 / 50 / 91
+Lux,4,7,Stats,Range: 4
+Lux,4,8,Stats,Crit Rate: 25%
+Lux,4,9,Stats,Ability Power: 100
+Malphite,1,1,header,Malphite
+Malphite,2,1,traits_header,Traits
+Malphite,2,2,trait,Heavenly
+Malphite,2,3,trait,Behemoth
+Malphite,3,1,Ability,Topaz Skin
+Malphite,3,3,Ability Description,"For 8 seconds, gain Armor and attacks deal magic damage to enemies in a cone."
+Malphite,4,2,Stats,HP: 650 / 1170 / 2106
+Malphite,4,3,Stats,Armor: 40
+Malphite,4,4,Stats,MR: 40
+Malphite,4,5,Stats,AS: 0.55
+Malphite,4,6,Stats,DPS: 28 / 50 / 89
+Malphite,4,7,Stats,Range: 1
+Malphite,4,8,Stats,Crit Rate: 25%
+Malphite,4,9,Stats,Ability Power: 100
+Morgana,1,1,header,Morgana
+Morgana,2,1,traits_header,Traits
+Morgana,2,2,trait,Ghostly
+Morgana,2,3,trait,Sage
+Morgana,3,1,Ability,The Tempest's Torment
+Morgana,3,3,Ability Description,Create an expanding blizzard at the largest clump of enemies within range that deals magic damage over 3 seconds and Chills for 1 second.
+Morgana,4,2,Stats,HP: 750 / 1350 / 2430
+Morgana,4,3,Stats,Armor: 40
+Morgana,4,4,Stats,MR: 40
+Morgana,4,5,Stats,AS: 0.75
+Morgana,4,6,Stats,DPS: 30 / 54 / 97
+Morgana,4,7,Stats,Range: 4
+Morgana,4,8,Stats,Crit Rate: 25%
+Morgana,4,9,Stats,Ability Power: 100
+Nautilus,1,1,header,Nautilus
+Nautilus,2,1,traits_header,Traits
+Nautilus,2,2,trait,Mythic
+Nautilus,2,3,trait,Warden
+Nautilus,3,1,Ability,Depth Charge
+Nautilus,3,3,Ability Description,"Send 3 shockwaves towards the most enemies in a line, dealing magic damage and Stunning all enemies hit."
+Nautilus,4,2,Stats,HP: 1000 / 1800 / 3240
+Nautilus,4,3,Stats,Armor: 60
+Nautilus,4,4,Stats,MR: 60
+Nautilus,4,5,Stats,AS: 0.6
+Nautilus,4,6,Stats,DPS: 42 / 76 / 136
+Nautilus,4,7,Stats,Range: 1
+Nautilus,4,8,Stats,Crit Rate: 25%
+Nautilus,4,9,Stats,Ability Power: 100
+Neeko,1,1,header,Neeko
+Neeko,2,1,traits_header,Traits
+Neeko,2,2,trait,Heavenly
+Neeko,2,3,trait,Mythic
+Neeko,2,4,trait,Arcanist
+Neeko,3,1,Ability,Hop Blossom
+Neeko,3,3,Ability Description,"Hop into the air, reducing damage taken and Healing over 2 seconds. After, slam down and deal magic damage to adjacent enemies."
+Neeko,4,2,Stats,HP: 800 / 1440 / 2592
+Neeko,4,3,Stats,Armor: 45
+Neeko,4,4,Stats,MR: 45
+Neeko,4,5,Stats,AS: 0.65
+Neeko,4,6,Stats,DPS: 29 / 53 / 95
+Neeko,4,7,Stats,Range: 1
+Neeko,4,8,Stats,Crit Rate: 25%
+Neeko,4,9,Stats,Ability Power: 100
+Ornn,1,1,header,Ornn
+Ornn,2,1,traits_header,Traits
+Ornn,2,2,trait,Dryad
+Ornn,2,3,trait,Behemoth
+Ornn,3,1,Ability,Forge of the Forest
+Ornn,3,3,Ability Description,"Gain 15% HP + % AP shield for 4 seconds. Channel and forge upstoppably over 2 seconds, dealing magic damage to adjacent enemies over the duration. After, toss an ephemeral Completed item to the nearest ally."
+Ornn,4,2,Stats,HP: 1000 / 1800 / 3240
+Ornn,4,3,Stats,Armor: 60
+Ornn,4,4,Stats,MR: 60
+Ornn,4,5,Stats,AS: 0.6
+Ornn,4,6,Stats,DPS: 36 / 65 / 117
+Ornn,4,7,Stats,Range: 1
+Ornn,4,8,Stats,Crit Rate: 25%
+Ornn,4,9,Stats,Ability Power: 100
+Qiyana,1,1,header,Qiyana
+Qiyana,2,1,traits_header,Traits
+Qiyana,2,2,trait,Heavenly
+Qiyana,2,3,trait,Duelist
+Qiyana,3,1,Ability,Supreme Display of Talent
+Qiyana,3,3,Ability Description,"For 4 seconds, attacks deal 135% AD + % AP bonus physical damage to the target and 75% of the damage as physical damage to enemies behind them. Qiyana will dash to find the best angle."
+Qiyana,4,2,Stats,HP: 700 / 1260 / 2268
+Qiyana,4,3,Stats,Armor: 35
+Qiyana,4,4,Stats,MR: 35
+Qiyana,4,5,Stats,AS: 0.75
+Qiyana,4,6,Stats,DPS: 38 / 68 / 122
+Qiyana,4,7,Stats,Range: 1
+Qiyana,4,8,Stats,Crit Rate: 25%
+Qiyana,4,9,Stats,Ability Power: 100
+Rakan,1,1,header,Rakan
+Rakan,2,1,traits_header,Traits
+Rakan,2,2,trait,Dragonlord
+Rakan,2,3,trait,Lovers
+Rakan,2,4,trait,Altruist
+Rakan,3,1,Ability,Grand Entrance
+Rakan,3,3,Ability Description,Dash into the largest group of enemies and deal magic damage to enemies in a 2-hex range. Gain Shield for each enemy hit for 2 seconds and reduce their damage by 10% for 4 seconds.
+Rakan,4,2,Stats,HP: 1100 / 1980 / 3564
+Rakan,4,3,Stats,Armor: 60
+Rakan,4,4,Stats,MR: 60
+Rakan,4,5,Stats,AS: 0.85
+Rakan,4,6,Stats,DPS: 60 / 107 / 193
+Rakan,4,7,Stats,Range: 2
+Rakan,4,8,Stats,Crit Rate: 25%
+Rakan,4,9,Stats,Ability Power: 100
+RekSai,1,1,header,RekSai
+RekSai,2,1,traits_header,Traits
+RekSai,2,2,trait,Dryad
+RekSai,2,3,trait,Bruiser
+RekSai,3,1,Ability,Uproot
+RekSai,3,3,Ability Description,Gain 50 Armor and Magic Resist for 5 seconds. Stun nearby enemies for 1 second and deal 12% HP + % AP magic damage.
+RekSai,4,2,Stats,HP: 650 / 1170 / 2106
+RekSai,4,3,Stats,Armor: 35
+RekSai,4,4,Stats,MR: 35
+RekSai,4,5,Stats,AS: 0.55
+RekSai,4,6,Stats,DPS: 41 / 74 / 134
+RekSai,4,7,Stats,Range: 1
+RekSai,4,8,Stats,Crit Rate: 25%
+RekSai,4,9,Stats,Ability Power: 100
+Riven,1,1,header,Riven
+Riven,2,1,traits_header,Traits
+Riven,2,2,trait,Storyweaver
+Riven,2,3,trait,Altruist
+Riven,2,4,trait,Bruiser
+Riven,3,1,Ability,Broken Wings
+Riven,3,3,Ability Description,"Deal physical damage to the current target. Every 3rd cast, also deal physical damage to adjacent enemies and heal."
+Riven,4,2,Stats,HP: 700 / 1260 / 2268
+Riven,4,3,Stats,Armor: 40
+Riven,4,4,Stats,MR: 40
+Riven,4,5,Stats,AS: 0.8
+Riven,4,6,Stats,DPS: 40 / 72 / 130
+Riven,4,7,Stats,Range: 1
+Riven,4,8,Stats,Crit Rate: 25%
+Riven,4,9,Stats,Ability Power: 100
+Senna,1,1,header,Senna
+Senna,2,1,traits_header,Traits
+Senna,2,2,trait,Inkshadow
+Senna,2,3,trait,Sniper
+Senna,3,1,Ability,Absolution
+Senna,3,3,Ability Description,"Fire a laser 2 Hexes beyond the current target, dealing physical damage to enemies hit. Grant Attack Damage to Senna and allies to the left and right for 4 seconds."
+Senna,4,2,Stats,HP: 600 / 1080 / 1944
+Senna,4,3,Stats,Armor: 20
+Senna,4,4,Stats,MR: 20
+Senna,4,5,Stats,AS: 0.75
+Senna,4,6,Stats,DPS: 41 / 74 / 134
+Senna,4,7,Stats,Range: 4
+Senna,4,8,Stats,Crit Rate: 25%
+Senna,4,9,Stats,Ability Power: 100
+Sett,1,1,header,Sett
+Sett,2,1,traits_header,Traits
+Sett,2,2,trait,Fated
+Sett,2,3,trait,Umbral
+Sett,2,4,trait,Warden
+Sett,3,1,Ability,Light and Shadow
+Sett,3,3,Ability Description,"Passive: At the start of combat, squat adjacent units in the same row. Permanently gain 1% Attack Damage for each 1000 Health squatted. Gains are doubled in Hyper Roll. Active: Slam the current target forward, Stunning them and dealing physical damage. Deal 200% AD + % AP + % of the target's maximum health as physical damage to enemies within 2.5 hexes."
+Sett,4,2,Stats,HP: 1100 / 1980 / 3564
+Sett,4,3,Stats,Armor: 60
+Sett,4,4,Stats,MR: 60
+Sett,4,5,Stats,AS: 0.85
+Sett,4,6,Stats,DPS: 68 / 122 / 220
+Sett,4,7,Stats,Range: 1
+Sett,4,8,Stats,Crit Rate: 25%
+Sett,4,9,Stats,Ability Power: 100
+Shen,1,1,header,Shen
+Shen,2,1,traits_header,Traits
+Shen,2,2,trait,Ghostly
+Shen,2,3,trait,Behemoth
+Shen,3,1,Ability,Spirit's Refuge
+Shen,3,3,Ability Description,"For 4 seconds, reduce damage taken by for Shen and for adjacent allies. Shen's next 3 attacks deal bonus true damage."
+Shen,4,2,Stats,HP: 800 / 1440 / 2592
+Shen,4,3,Stats,Armor: 45
+Shen,4,4,Stats,MR: 45
+Shen,4,5,Stats,AS: 0.65
+Shen,4,6,Stats,DPS: 36 / 64 / 116
+Shen,4,7,Stats,Range: 1
+Shen,4,8,Stats,Crit Rate: 25%
+Shen,4,9,Stats,Ability Power: 100
+Sivir,1,1,header,Sivir
+Sivir,2,1,traits_header,Traits
+Sivir,2,2,trait,Storyweaver
+Sivir,2,3,trait,Trickshot
+Sivir,3,1,Ability,On the Hunt
+Sivir,3,3,Ability Description,Gain Attack Damage and grant Attack Speed to self and adjacent allies for 5 seconds.
+Sivir,4,2,Stats,HP: 500 / 900 / 1620
+Sivir,4,3,Stats,Armor: 15
+Sivir,4,4,Stats,MR: 15
+Sivir,4,5,Stats,AS: 0.7
+Sivir,4,6,Stats,DPS: 39 / 69 / 125
+Sivir,4,7,Stats,Range: 4
+Sivir,4,8,Stats,Crit Rate: 25%
+Sivir,4,9,Stats,Ability Power: 100
+Soraka,1,1,header,Soraka
+Soraka,2,1,traits_header,Traits
+Soraka,2,2,trait,Heavenly
+Soraka,2,3,trait,Altruist
+Soraka,3,1,Ability,Divine Judgement
+Soraka,3,3,Ability Description,"Passive: Each time your team loses 20% of their total Health, gain 10 Ability Power for the rest of combat. Active: Mana Reave the largest group of enemies within range. Deal magic damage to the center enemy and magic damage to adjacent enemies."
+Soraka,4,2,Stats,HP: 650 / 1170 / 2106
+Soraka,4,3,Stats,Armor: 25
+Soraka,4,4,Stats,MR: 25
+Soraka,4,5,Stats,AS: 0.7
+Soraka,4,6,Stats,DPS: 28 / 50 / 91
+Soraka,4,7,Stats,Range: 4
+Soraka,4,8,Stats,Crit Rate: 25%
+Soraka,4,9,Stats,Ability Power: 100
+Sylas,1,1,header,Sylas
+Sylas,2,1,traits_header,Traits
+Sylas,2,2,trait,Umbral
+Sylas,2,3,trait,Bruiser
+Sylas,3,1,Ability,Unchain The Demon
+Sylas,3,3,Ability Description,"Dash around the target and slam, dealing magic damage and healing. Swipe after, dealing magic damage to nearby enemies."
+Sylas,4,2,Stats,HP: 1000 / 1800 / 3240
+Sylas,4,3,Stats,Armor: 50
+Sylas,4,4,Stats,MR: 50
+Sylas,4,5,Stats,AS: 0.85
+Sylas,4,6,Stats,DPS: 43 / 77 / 138
+Sylas,4,7,Stats,Range: 1
+Sylas,4,8,Stats,Crit Rate: 25%
+Sylas,4,9,Stats,Ability Power: 100
+Syndra,1,1,header,Syndra
+Syndra,2,1,traits_header,Traits
+Syndra,2,2,trait,Fated
+Syndra,2,3,trait,Arcanist
+Syndra,3,1,Ability,Phantom Butterflies
+Syndra,3,3,Ability Description,"Passive: Start combat with 7 butterflies and gain one every 2 casts or on ally death.  Active: Throw all butterflies at the current target, dealing magic damage for each butterfly."
+Syndra,4,2,Stats,HP: 700 / 1260 / 2268
+Syndra,4,3,Stats,Armor: 30
+Syndra,4,4,Stats,MR: 30
+Syndra,4,5,Stats,AS: 0.75
+Syndra,4,6,Stats,DPS: 34 / 61 / 109
+Syndra,4,7,Stats,Range: 4
+Syndra,4,8,Stats,Crit Rate: 25%
+Syndra,4,9,Stats,Ability Power: 100
+Tahm Kench,1,1,header,Tahm Kench
+Tahm Kench,2,1,traits_header,Traits
+Tahm Kench,2,2,trait,Mythic
+Tahm Kench,2,3,trait,Bruiser
+Tahm Kench,3,1,Ability,Tongue Lash
+Tahm Kench,3,3,Ability Description,"Gain 18% HP Shield for 6 seconds and deal magic damage to the current target. If Tahm Kench has more Health than them, deal 250% of the damage instead. Otherwise, gain bonus Shield."
+Tahm Kench,4,2,Stats,HP: 850 / 1530 / 2754
+Tahm Kench,4,3,Stats,Armor: 45
+Tahm Kench,4,4,Stats,MR: 45
+Tahm Kench,4,5,Stats,AS: 0.6
+Tahm Kench,4,6,Stats,DPS: 36 / 65 / 117
+Tahm Kench,4,7,Stats,Range: 1
+Tahm Kench,4,8,Stats,Crit Rate: 25%
+Tahm Kench,4,9,Stats,Ability Power: 100
+Teemo,1,1,header,Teemo
+Teemo,2,1,traits_header,Traits
+Teemo,2,2,trait,Fortune
+Teemo,2,3,trait,Trickshot
+Teemo,3,1,Ability,Dim-Sum Delivery
+Teemo,3,3,Ability Description,"Throw a spoiled dumpling at the nearest non-poisoned enemy, poisoning them for magic damage over 10 seconds."
+Teemo,4,2,Stats,HP: 550 / 990 / 1782
+Teemo,4,3,Stats,Armor: 20
+Teemo,4,4,Stats,MR: 20
+Teemo,4,5,Stats,AS: 0.7
+Teemo,4,6,Stats,DPS: 28 / 50 / 91
+Teemo,4,7,Stats,Range: 4
+Teemo,4,8,Stats,Crit Rate: 25%
+Teemo,4,9,Stats,Ability Power: 100
+Thresh,1,1,header,Thresh
+Thresh,2,1,traits_header,Traits
+Thresh,2,2,trait,Fated
+Thresh,2,3,trait,Behemoth
+Thresh,3,1,Ability,Guided Passage
+Thresh,3,3,Ability Description,Grant Shield to Thresh and the lowest Health ally for 4 seconds and deal magic damage to enemies adjacent to both. Thresh shares % of his Armor and Magic Resist with the shielded ally for 6 seconds.
+Thresh,4,2,Stats,HP: 850 / 1530 / 2754
+Thresh,4,3,Stats,Armor: 50
+Thresh,4,4,Stats,MR: 50
+Thresh,4,5,Stats,AS: 0.5
+Thresh,4,6,Stats,DPS: 38 / 68 / 122
+Thresh,4,7,Stats,Range: 2
+Thresh,4,8,Stats,Crit Rate: 25%
+Thresh,4,9,Stats,Ability Power: 100
+Tristana,1,1,header,Tristana
+Tristana,2,1,traits_header,Traits
+Tristana,2,2,trait,Fortune
+Tristana,2,3,trait,Duelist
+Tristana,3,1,Ability,Firecracker Frenzy
+Tristana,3,3,Ability Description,"Gain Attack Damage for 6 seconds. Jump on the lowest Health enemy within range and deal % AD + % AP physical damage to adjacent enemies, before bouncing to a safe location."
+Tristana,4,2,Stats,HP: 700 / 1260 / 2268
+Tristana,4,3,Stats,Armor: 25
+Tristana,4,4,Stats,MR: 25
+Tristana,4,5,Stats,AS: 0.75
+Tristana,4,6,Stats,DPS: 41 / 74 / 134
+Tristana,4,7,Stats,Range: 4
+Tristana,4,8,Stats,Crit Rate: 25%
+Tristana,4,9,Stats,Ability Power: 100
+Udyr,1,1,header,Udyr
+Udyr,2,1,traits_header,Traits
+Udyr,2,2,trait,Inkshadow
+Udyr,2,3,trait,Behemoth
+Udyr,2,4,trait,Spirit Walker
+Udyr,3,1,Ability,Ram Slam / Tiger Strikes
+Udyr,3,3,Ability Description,"Ram Slam: Gain Shield for 3 seconds and charge through the current target, briefly knocking up any enemies he hits. Grab the nearest enemy and slam them into the ground, dealing total magic damage to them and adjacent enemies."
+Udyr,4,2,Stats,HP: 1300 / 2340 / 4212
+Udyr,4,3,Stats,Armor: 50
+Udyr,4,4,Stats,MR: 50
+Udyr,4,5,Stats,AS: 1.0
+Udyr,4,6,Stats,DPS: 50 / 90 / 162
+Udyr,4,7,Stats,Range: 1
+Udyr,4,8,Stats,Crit Rate: 25%
+Udyr,4,9,Stats,Ability Power: 100
+Volibear,1,1,header,Volibear
+Volibear,2,1,traits_header,Traits
+Volibear,2,2,trait,Inkshadow
+Volibear,2,3,trait,Duelist
+Volibear,3,1,Ability,Ink Smash
+Volibear,3,3,Ability Description,Empower the next three attacks. The first two heal and deal bonus magic damage. The final attack deals 10% HP + % AP magic damage and Stuns the target for 1 second.
+Volibear,4,2,Stats,HP: 900 / 1620 / 2916
+Volibear,4,3,Stats,Armor: 50
+Volibear,4,4,Stats,MR: 50
+Volibear,4,5,Stats,AS: 0.75
+Volibear,4,6,Stats,DPS: 34 / 61 / 109
+Volibear,4,7,Stats,Range: 1
+Volibear,4,8,Stats,Crit Rate: 25%
+Volibear,4,9,Stats,Ability Power: 100
+Wukong,1,1,header,Wukong
+Wukong,2,1,traits_header,Traits
+Wukong,2,2,trait,Heavenly
+Wukong,2,3,trait,Great
+Wukong,2,4,trait,Sage
+Wukong,3,1,Ability,Legendary Prowess
+Wukong,3,3,Ability Description,Cycle through the following abilities:
+Wukong,4,2,Stats,HP: 1000 / 1800 / 3240
+Wukong,4,3,Stats,Armor: 60
+Wukong,4,4,Stats,MR: 60
+Wukong,4,5,Stats,AS: 0.9
+Wukong,4,6,Stats,DPS: 72 / 130 / 233
+Wukong,4,7,Stats,Range: 1
+Wukong,4,8,Stats,Crit Rate: 25%
+Wukong,4,9,Stats,Ability Power: 100
+Xayah,1,1,header,Xayah
+Xayah,2,1,traits_header,Traits
+Xayah,2,2,trait,Dragonlord
+Xayah,2,3,trait,Lovers
+Xayah,2,4,trait,Trickshot
+Xayah,3,1,Ability,Feathers Fly!
+Xayah,3,3,Ability Description,"Throw feathers at the 4 closest enemies, each dealing physical damage. Then, recall the feathers, dealing % AD + % AP physical damage to enemies they pass through."
+Xayah,4,2,Stats,HP: 850 / 1530 / 2754
+Xayah,4,3,Stats,Armor: 40
+Xayah,4,4,Stats,MR: 40
+Xayah,4,5,Stats,AS: 0.9
+Xayah,4,6,Stats,DPS: 72 / 130 / 233
+Xayah,4,7,Stats,Range: 4
+Xayah,4,8,Stats,Crit Rate: 25%
+Xayah,4,9,Stats,Ability Power: 100
+Yasuo,1,1,header,Yasuo
+Yasuo,2,1,traits_header,Traits
+Yasuo,2,2,trait,Fated
+Yasuo,2,3,trait,Duelist
+Yasuo,3,1,Ability,Steel Tempest
+Yasuo,3,3,Ability Description,Passive: Attacks while Shielded deal bonus magic damage. Active: Gain Shield for 5 seconds and deal magic damage to the current target. 
+Yasuo,4,2,Stats,HP: 600 / 1080 / 1944
+Yasuo,4,3,Stats,Armor: 45
+Yasuo,4,4,Stats,MR: 45
+Yasuo,4,5,Stats,AS: 0.75
+Yasuo,4,6,Stats,DPS: 30 / 54 / 97
+Yasuo,4,7,Stats,Range: 1
+Yasuo,4,8,Stats,Crit Rate: 25%
+Yasuo,4,9,Stats,Ability Power: 100
+Yone,1,1,header,Yone
+Yone,2,1,traits_header,Traits
+Yone,2,2,trait,Umbral
+Yone,2,3,trait,Reaper
+Yone,3,1,Ability,Fate Sealed
+Yone,3,3,Ability Description,"Dash in spirit form to the furthest enemy within Hexes for 3 seconds, dealing physical damage and Wounding enemies along the way for 5 seconds. While in spirit form, gain Shield and 80% Attack Speed. Afterwards, Yone returns to his starting position."
+Yone,4,2,Stats,HP: 800 / 1440 / 2592
+Yone,4,3,Stats,Armor: 40
+Yone,4,4,Stats,MR: 40
+Yone,4,5,Stats,AS: 0.8
+Yone,4,6,Stats,DPS: 52 / 94 / 168
+Yone,4,7,Stats,Range: 1
+Yone,4,8,Stats,Crit Rate: 25%
+Yone,4,9,Stats,Ability Power: 100
+Yorick,1,1,header,Yorick
+Yorick,2,1,traits_header,Traits
+Yorick,2,2,trait,Umbral
+Yorick,2,3,trait,Behemoth
+Yorick,3,1,Ability,Dark Despoil
+Yorick,3,3,Ability Description,"Sap power from the 2 nearest enemies, gaining max Health and dealing magic damage to them over 3 seconds."
+Yorick,4,2,Stats,HP: 800 / 1440 / 2592
+Yorick,4,3,Stats,Armor: 45
+Yorick,4,4,Stats,MR: 45
+Yorick,4,5,Stats,AS: 0.6
+Yorick,4,6,Stats,DPS: 36 / 65 / 117
+Yorick,4,7,Stats,Range: 1
+Yorick,4,8,Stats,Crit Rate: 25%
+Yorick,4,9,Stats,Ability Power: 100
+Zoe,1,1,header,Zoe
+Zoe,2,1,traits_header,Traits
+Zoe,2,2,trait,Fortune
+Zoe,2,3,trait,Storyweaver
+Zoe,2,4,trait,Arcanist
+Zoe,3,1,Ability,Calculated!
+Zoe,3,3,Ability Description,"Passive: Kills increase the number of ricochets by 1 for the rest of combat. Active: Fire a missile dealing magic damage to the current target. The missile ricochets to the farthest unit within 2 hexes, dealing magic damage."
+Zoe,4,2,Stats,HP: 650 / 1170 / 2106
+Zoe,4,3,Stats,Armor: 25
+Zoe,4,4,Stats,MR: 25
+Zoe,4,5,Stats,AS: 0.75
+Zoe,4,6,Stats,DPS: 34 / 61 / 109
+Zoe,4,7,Stats,Range: 4
+Zoe,4,8,Stats,Crit Rate: 25%
+Zoe,4,9,Stats,Ability Power: 100
+Zyra,1,1,header,Zyra
+Zyra,2,1,traits_header,Traits
+Zyra,2,2,trait,Storyweaver
+Zyra,2,3,trait,Sage
+Zyra,3,1,Ability,Paper Thorns
+Zyra,3,3,Ability Description,Summon 2 Vine Lashers that attack the nearest enemy 3 times. Their attacks deal magic damage and Wound their targets for 6 seconds.
+Zyra,4,2,Stats,HP: 600 / 1080 / 1944
+Zyra,4,3,Stats,Armor: 20
+Zyra,4,4,Stats,MR: 20
+Zyra,4,5,Stats,AS: 0.7
+Zyra,4,6,Stats,DPS: 28 / 50 / 91
+Zyra,4,7,Stats,Range: 4
+Zyra,4,8,Stats,Crit Rate: 25%
+Zyra,4,9,Stats,Ability Power: 100

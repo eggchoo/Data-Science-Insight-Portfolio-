@@ -1,0 +1,29 @@
+﻿trait,trait des
+Arcanist,Allies gain increased ability power.
+Assassin,"Before combat starts, Assassins leap to the enemy backline."
+Bodyguard,"Bodyguards gain bonus armor. Shortly after combat begins, Bodyguards taunt taunt adjacent enemies, gaining a shield."
+Bruiser,All allies gain bonus health. Bruisers gain double this bonus.
+Challenger,"Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.5 seconds."
+Chemtech,"After dropping below 75% health, Chemtech champions gain 15% damage reduction, bonus attack speed, and regenerate health each second for 8 seconds."
+Clockwork,"All allies gain bonus attack speed, and additional attack speed for each Hextech Augment you own."
+Colossus,"Colossi are bigger, more powerful, immune to crowd control, gain 800 bonus health, and take up 2 slots in your army."
+Debonair,"Debonair champions gain bonus health and ability power, and you have a higher chance to see Debonair VIPs in your Shop. If the Debonair trait is active and there is a Debonair VIP in play, the VIP activates their unique bonus. Sell the old VIP for a chance to see a new one in your Shop."
+Enchanter,"Enchanters' healing and shielding are stronger, and all allies gain bonus magic resistance."
+Enforcer,"While at least 3 Enforcers are in play, Enforcers stun an enemy at the start of combat. The target breaks free after 4 seconds or after losing 40% of their maximum health. Enforcers will not try to stun enemies who are immune to crowd control effects. While at least 5 Enforcers are in play, Enforcers also gain 100% bonus attack speed."
+Glutton,"Once per planning phase, you can feed a unit to a Glutton champion. This unit is consumed, granting them permanent bonus stats. The more valuable the unit, the bigger the bonus. To feed the Glutton, hover a unit over them until their mouth opens, then release. At 3-Star, a Glutton gains 20 times the stats from eating."
+Hextech,"At the start of combat and every 6 seconds afterwards, the Hexcore sends out a pulse that charges up allied Hextech champions with a shield for 4 seconds. While the shield is active, their basic attacks deal bonus magic damage on-hit. The bonus magic damage and shield values are increased by 20% per augment. This shield does not stack."
+Innovator,Innovators build a mechanical companion to join their battle. Mechanical companions gain 25% bonus health and attack damage per Star level of Innovators.
+Mastermind,"At the start of combat, the  Mastermind grants the 2 allies directly in front of him 30 bonus starting mana."
+Mercenary,"Gain a treasure chest that opens when you win combat against a player. At the start of each planning phase, roll the dice to add more loot to the chest. The longer you've gone without opening the chest, the luckier the dice."
+Mutant,Mutants gain unique bonuses. These are different each game. 
+Rivals,"This trait is active when you have exactly  1 unique Rival unit, as Rivals refuse to work together."
+Scholar,Scholars gain bonus Mana on attack and Ability Power
+Scrap,"At the start of combat, a number of incomplete components on Scrap champions turn into full items for the rest of combat. Additionally your team also gains a shield for each item component equipped in your army, including those that are part of a full item."
+Sniper,Snipers deal increased damage for each hex of distance between themselves and their target.
+Socialite,Socialites reveal a spotlight on the battlefield. The unit standing in the spotlight at the start of combat gains unique bonuses.
+Striker,Strikers gain bonus attack damage.
+Syndicate,"Chosen allies are cloaked in shadows, gaining 20% omnivamp, 50 bonus armor, and 50 bonus magic resistance."
+Transformer,"Transformers have 2 forms that they can swap between during planning phase, depending on whether they are placed in the front 2 rows or the back 2 rows."
+Twinshot,Twinshots gain bonus attack damage and their basic attacks and abilities have a chance to trigger twice.
+Yordle,"After combat with a player, a random free Yordle appears on your bench."
+YordleLord,Veigar is summoned from a Yordle Portal when 5 or more champions is 3-star.
