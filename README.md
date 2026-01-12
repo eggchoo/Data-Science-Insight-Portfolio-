@@ -1,52 +1,66 @@
-# Data-Science-Insight-Portfolio 
-Portfolio of data science and data insight projects that I completed. 
+# Data Science & Analytics Portfolio 
+Portfolio of data science and analytics projects that I completed covering experimentation, causal inference, statistical modeling, machine learning, BI visualization and self-service analysis tools. 
 
-Data visualization and self-service BI dashboards can be found at [Xinyu Tableau Profile](https://public.tableau.com/app/profile/xinyu.xiang5112/vizzes) 
+Interactive BI dashboards can be found on [Xinyu Tableau Profile](https://public.tableau.com/app/profile/xinyu.xiang5112/vizzes) 
 
-## Projects 
-### Data Science & Insights Projects 
-[Teamfight Tactics In-Game Strategy Analysis: Unsupervised Learning](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/Teamfight%20Tactics%20combo%20clustering%20analysis/tft%20match%20analysis.ipynb) 
+## Unsupervised Learning & Strategy Analytics
+### [Teamfight Tactics In-Game Strategy Analysis](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/Teamfight%20Tactics%20combo%20clustering%20analysis/tft%20match%20analysis.ipynb) 
 
-**KMeans clustering** was used to identify combos of traits, using Teamfight Tactics (patch 6.5) match data of the top 100 Challenger players in NA. Identified players' in-game strategy and analyzed **key metrics (average placement, pick rate, top4 rate, and win rate)** for combos, units, items, and traits. Provided insights for players' in-game strategy. 
+Used **K-means clustering** on patch 6.5 match data from top 100 NA Challenger players to identify **trait-based combos** and in-game strategies. Evaluated **placement, pick rate, Top-4 rate, and win rate**.
 
-_Tools: Pandas, Numpy, Scikit-learn, ast, json, Matplotlib, Seaborn_
+_Methods: EDA, K-means clustering_ 
 
-[OUTLAD User Retention, Churn, and Conversion: Survival Analysis and Regression](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/OULAD%20project/OUTLAD_user_retention%20%26%20conversion_analysis.ipynb) 
+_Tools: Pandas, Numpy, Scikit-learn, ast, json, Matplotlib, Seaborn, Tableau_
 
-Using the Open University Learning Analytics Dataset (OUTLAD) and developed key metrics to evaluate **user behaviour (i.e. registration, activation, retention, churn, and conversion)**. Identified **at-risk users and converter profiles**. Conducted **survival analysis** to identify key factors **predicting churn** and **logistic regression** to investigate factors contributing to **user conversion**, both with adjustment of covariates. 
+## Retention, Churn & Conversion
+### [OUTLAD User Retention, Churn & Conversion Analysis](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/OULAD%20project/OUTLAD_user_retention%20%26%20conversion_analysis.ipynb) 
+
+Developed **lifecycle metrics (activation, retention, churn, conversion)**. Identified at-risk users using survival analysis and conversion drivers using logistic regression with covariate adjustment.
+
+_Methods: EDA, survival analysis, logistic regression_ 
 
 _Tools: Lifelines, Statsmodels, Pandas, Numpy, Matplotlib, Seaborn_
 
-[CookieCats Game Retention: A/B Testing](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/cookie%20cats%20game%20retention%20ab%20testing/cookie_cats_ab_test_game_retention.ipynb) 
+## Experimentation & Casual Inference 
+### [CookieCats Game Retention: A/B Testing](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/cookie%20cats%20game%20retention%20ab%20testing/cookie_cats_ab_test_game_retention.ipynb) 
 
-Conducted **A/B testing** on **user retention rate** (retention after 1 day and 7 days) in response to different placement of progression gate (level-30 vs level-40). Mann-Whitney U test was conducted to compare sum of gamerounds between two groups. Two-proportion z test to compare retention rates between two groups. 
+Evaluated the impact of gate placement on early player retention with experimental integrity and SRM checks. 
 
-[Marketing Campaigns: Funnel Analysis and A/B testing](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/Marketing%20campaigns%20ab%20testing/marketing_campaign_ab%20testing.ipynb) 
+_Methods: A/B testing, casual inferences, Mann-Whitney U test, Two-proportion z test_ 
 
-Conducted **A/B testing** on **funnel metrics** to compare the old and new marketing campaign performance. Developed key funnel metrics inlcuding **CTR (Click Through Rate), search rate, view rate, ATC (Add to Cart) rate, purchase rate, overall conversion rate**. Established **reproducible experiment workflow** following data cleaning, experiment integrity checks, descriptive analysis and hypothesis testing. 
+### [Marketing Campaigns: Funnel Analysis & A/B testing](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/Marketing%20campaigns%20ab%20testing/marketing_campaign_ab%20testing.ipynb) 
+
+Diagnosed funnel metrics performances and conversion differences across experiment variants with experimental integrity checks and Chi-square testing. 
+
+_Methods: Funnel analysis, A/B testing, casual inferences_ 
 
 _Tools: Statsmodels, Scipy, Pingouin, Pandas, Numpy, Matplotlib, Seaborn_
 
-[TelecomX Churn Analysis and Future Churn Prediction](https://github.com/eggchoo/Telecom-customer-churn-analysis-and-prediction) 
-Identified key factors influencing churn, highlights high-risk customer segments, and presents actionable strategies to improve retention, enhance customer satisfaction, and support long-term business growth. Created a model using Randomforest classifier to identify future churners. 
+## Supervised learning & Predictive Modeling 
+[TelecomX Churn Analysis & Prediction](https://github.com/eggchoo/Telecom-customer-churn-analysis-and-prediction) 
 
-_Tools: Pandas, Numpy, Scikit-learn_ 
+Identified key churn drivers, profiled high-risk segments, and built a Random Forest model to predict future churners and inform retention strategy.
 
-### Data Insight Projects  
-[ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://github.com/eggchoo/ShopEasy-marketing-analysis) 
-Analyzed the marketing performance of a online retail store with key metrics including conversion, customer engagement and rating. Conducted sentiment analysis on customer feedback. 
+_Methods: EDA, supervised learning, predictive modeling, randomforest_ 
 
-_Tools: SQL server, Pandas, nltk_ 
+_Tools: Pandas, Numpy, Scikit-learn, Power BI_ 
+
+### Product & Business Analytics   
+[ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://github.com/eggchoo/ShopEasy-marketing-analysis)
+
+Analyzed conversion, engagement, and customer ratings; conducted sentiment analysis on customer feedback.
+
+_Tools: SQL server, Pandas, nltk, Power BI_ 
 
 [GlobalLink Logistics Performance](https://github.com/eggchoo/GlobalLink-Logistics-analysis/blob/main/README.md) 
 
 Provided data-driven insights to improve delivery efficiency, reduce return rates, and enhance overall business performance.
 
-_Tools: SQL server_ 
+_Tools: SQL server, Power BI_ 
 
 [Yelp Buiness Insights](https://github.com/eggchoo/Yelp-business-analysis) 
 
-Analyzed large scaled Yelp data to identify key factors driving customer ratings, engagement, and business visibility. 
+Analyzed large-scale Yelp data to identify drivers of ratings, engagement, and business visibility. 
 
 _Tools: Python, AWS, SNOWFLAKE (Python, MySQL)_  
 
@@ -54,19 +68,19 @@ _Tools: Python, AWS, SNOWFLAKE (Python, MySQL)_
 ### Tableau 
 [Teamfight Tactics In-Game Strategy: Combo breakdown](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/TeamfightTacticscomboanalysis/traitsStats) 
 
-TFT match (patch 6.5) combos played by the top 100 Challenger players in NA. Identified players' in-game strategy and analyzed key metrics (average placement, pick rate, top4 rate, and win rate) for combos, units, items, and traits. 
+Interactive analysis of Challenger-level TFT combos (patch 6.5) with performance metrics across units, items, and traits
 
 [Superstore Sales & Orders](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/Superstoresalesorders/overview) 
 
-Presented sales and order performance of Superstore from 2022 to 2024 using dynamic visualization tools. 
+Sales and order performance (2022–2024) with dynamic visualization tools. 
 
-[Superstore Profit & Sales by Product Subcategory](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/tableexercise/Dashboard1) 
+[Superstore Product Subcategory performance](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/tableexercise/Dashboard1) 
 
-Advanced table design of product subcategory performance breakdown with rank, bar charts of metric performance with comparison of pervious year, and line chart of performance trend over the past 4 years. 
+Ranked subcategory analysis with YoY (year over year) comparison and trend lines. 
 
 [Superstore Performance Overview](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/Superstoretableau_17677705726460/overview) 
 
-Superstore performance overview with direct visual comparison with previous year performance. Analyzed key business metrics including sales, profits, orders, and customers. 
+KPI dashboard with direct YoY comparisons. 
 
 ### Power BI 
 [ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://app.powerbi.com/links/ZRnbstLhCp?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=519eae8b-b62d-47ab-b44d-3dfc1c9fd223)
