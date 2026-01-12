@@ -12,6 +12,8 @@ _Methods: EDA, K-means clustering_
 
 _Tools: Pandas, Numpy, Scikit-learn, ast, json, Matplotlib, Seaborn, Tableau_
 
+[Tableau dashboards: Teamfight Tactics In-Game Strategy](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/TeamfightTacticscomboanalysis/traitsStats) 
+
 ## Retention, Churn & Conversion
 ### [OUTLAD User Retention, Churn & Conversion Analysis](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/OULAD%20project/OUTLAD_user_retention%20%26%20conversion_analysis.ipynb) 
 
@@ -37,7 +39,7 @@ _Methods: Funnel analysis, A/B testing, casual inferences_
 _Tools: Statsmodels, Scipy, Pingouin, Pandas, Numpy, Matplotlib, Seaborn_
 
 ## Supervised learning & Predictive Modeling 
-[TelecomX Churn Analysis & Prediction](https://github.com/eggchoo/Telecom-customer-churn-analysis-and-prediction) 
+### [TelecomX Churn Analysis & Prediction](https://github.com/eggchoo/Telecom-customer-churn-analysis-and-prediction) 
 
 Identified key churn drivers, profiled high-risk segments, and built a Random Forest model to predict future churners and inform retention strategy.
 
@@ -45,20 +47,26 @@ _Methods: EDA, supervised learning, predictive modeling, randomforest_
 
 _Tools: Pandas, Numpy, Scikit-learn, Power BI_ 
 
-### Product & Business Analytics   
-[ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://github.com/eggchoo/ShopEasy-marketing-analysis)
+[Power BI dashboards: TelecomX Churn Analysis & Prediction](https://app.powerbi.com/links/dV7FDMM88M?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=a8e6f4a7-8f13-4535-a8f2-f4912f82b294)
+
+## Product & Business Analytics   
+### [ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://github.com/eggchoo/ShopEasy-marketing-analysis)
 
 Analyzed conversion, engagement, and customer ratings; conducted sentiment analysis on customer feedback.
 
 _Tools: SQL server, Pandas, nltk, Power BI_ 
 
-[GlobalLink Logistics Performance](https://github.com/eggchoo/GlobalLink-Logistics-analysis/blob/main/README.md) 
+[Power BI dashboards: ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://app.powerbi.com/links/ZRnbstLhCp?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=519eae8b-b62d-47ab-b44d-3dfc1c9fd223)
+
+### [GlobalLink Logistics Performance](https://github.com/eggchoo/GlobalLink-Logistics-analysis/blob/main/README.md) 
 
 Provided data-driven insights to improve delivery efficiency, reduce return rates, and enhance overall business performance.
 
-_Tools: SQL server, Power BI_ 
+_Tools: Power BI_ 
 
-[Yelp Buiness Insights](https://github.com/eggchoo/Yelp-business-analysis) 
+[Power BI dashboard: GlobalLink Logistics Performance](https://app.powerbi.com/links/nrEMu1Vy_7?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare)
+
+### [Yelp Buiness Insights](https://github.com/eggchoo/Yelp-business-analysis) 
 
 Analyzed large-scale Yelp data to identify drivers of ratings, engagement, and business visibility. 
 
@@ -66,9 +74,6 @@ _Tools: Python, AWS, SNOWFLAKE (Python, MySQL)_
 
 ## Data visualization and self-service BI dashboards 
 ### Tableau 
-[Teamfight Tactics In-Game Strategy: Combo breakdown](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/TeamfightTacticscomboanalysis/traitsStats) 
-
-Interactive analysis of Challenger-level TFT combos (patch 6.5) with performance metrics across units, items, and traits
 
 [Superstore Sales & Orders](https://public.tableau.com/app/profile/xinyu.xiang5112/viz/Superstoresalesorders/overview) 
 
@@ -82,10 +87,5 @@ Ranked subcategory analysis with YoY (year over year) comparison and trend lines
 
 KPI dashboard with direct YoY comparisons. 
 
-### Power BI 
-[ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://app.powerbi.com/links/ZRnbstLhCp?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=519eae8b-b62d-47ab-b44d-3dfc1c9fd223)
 
 
-[TelecomX Churn Analysis and Future Churn Prediction](https://app.powerbi.com/links/dV7FDMM88M?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=a8e6f4a7-8f13-4535-a8f2-f4912f82b294)
-
-[GlobalLink Logistics Performance](https://app.powerbi.com/links/nrEMu1Vy_7?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare)
