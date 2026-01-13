@@ -6,7 +6,7 @@ Interactive BI dashboards can be found on [Xinyu Tableau Profile](https://public
 ## Unsupervised Learning & Strategy Analytics
 ### [Teamfight Tactics In-Game Strategy Analysis](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/Teamfight%20Tactics%20combo%20clustering%20analysis/tft%20match%20analysis.ipynb) 
 
-Used **K-means clustering** on patch 6.5 match data from top 100 NA Challenger players to identify **trait-based combos** and in-game strategies. Evaluated **placement, pick rate, Top-4 rate, and win rate**.
+Used **K-means clustering** on patch 6.5 match data from top 100 NA Challenger players to identify high-performing **trait-based combos** and in-game strategies. Evaluated their impact on player outcomes: **placement, pick rate, Top-4 rate, and win rate** which supports strategic decision-making.
 
 _Methods: EDA, K-means clustering_ 
 
