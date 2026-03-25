@@ -49,7 +49,24 @@ _Tools: Pandas, Numpy, Scikit-learn, Power BI_
 
 [Power BI dashboards: TelecomX Churn Analysis & Prediction](https://app.powerbi.com/links/dV7FDMM88M?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=a8e6f4a7-8f13-4535-a8f2-f4912f82b294)
 
-## Product & Business Analytics   
+## E-commerce & User Behavior Analytics
+### [Taobao User Purchase Behavior Analysis (淘宝用户购买行为数据分析)](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/taobao%20user%20behavior%20analysis/%E6%B7%98%E5%AE%9D%E7%94%A8%E6%88%B7%E8%B4%AD%E4%B9%B0%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
+
+Analyzed **6.2 million** user behavior records (click, favorite, cart, purchase) across 31 days covering the **Double-12 shopping festival**. Built conversion funnels, RFM user segmentation, retention/repurchase analysis, and promotion effectiveness evaluation with before/during/after comparison.
+
+_Methods: EDA, conversion funnel analysis, RFM segmentation, retention & repurchase analysis, promotion A/B comparison, user behavior path analysis_
+
+_Tools: Pandas, Numpy, Matplotlib_
+
+### [Xiaohongshu User Revenue Regression Analysis (小红书用户收入影响因素分析)](https://github.com/eggchoo/Data-Science-Insight-Portfolio-/blob/main/xiaohongshu%20user%20revenue%20analysis/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%94%A8%E6%88%B7%E6%94%B6%E5%85%A5%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0%E5%88%86%E6%9E%90.ipynb)
+
+Explored key drivers of user spending on Xiaohongshu (RED) platform using **multiple linear regression** on 29,000+ user records. Performed outlier detection, user segmentation, multicollinearity checks (VIF), and model comparison (OLS, Ridge, Lasso) with train/test evaluation.
+
+_Methods: EDA, OLS/Ridge/Lasso regression, feature engineering, outlier detection (IQR), user segmentation, standardized coefficient analysis_
+
+_Tools: Pandas, Numpy, Scikit-learn, Statsmodels, Seaborn, Matplotlib_
+
+## Product & Business Analytics
 ### [ShopEasy Marketing Insights: Conversion, Customer Engagement and Feedback](https://github.com/eggchoo/ShopEasy-marketing-analysis)
 
 Analyzed conversion, engagement, and customer ratings; conducted sentiment analysis on customer feedback.
